@@ -1,4 +1,4 @@
-The application concerns the management of a social networking system and offers a menu of options for the following:
+## Implementation of a social network management system, offering a menu of options for the following:
 
 1. Connect to the database by providing the IP address, the name of the database and the user details as parameters.
 2. Begin transaction - enter user email for which actions will be taken.
